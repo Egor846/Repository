@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+B:
+       Scanner scanner = new Scanner(System.in);
         boolean isCorrectName = false;
         while (!isCorrectName) {
             String name = scanner.nextLine(); //Считывает строку из System.in
